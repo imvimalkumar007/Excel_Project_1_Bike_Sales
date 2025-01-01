@@ -78,5 +78,4 @@ This project demonstrates how effective data cleaning and analysis can reveal ac
 3. **Dashboard:** Visual summary of the findings.
 4. **Pivot Tables:** Supporting tables for the dashboard.
 
-### Contact
-For questions or feedback, please reach out to [Your Name/Email].
+
